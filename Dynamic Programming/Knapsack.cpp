@@ -1,3 +1,7 @@
+// ERz
+// 28-7-2020
+// https://www.hackerrank.com/challenges/unbounded-knapsack/problem
+
 #include <iostream>
 #include <vector>
 #include <assert.h>
